@@ -24,7 +24,7 @@ El código que encontraran aquí va a ser construido clase a clase. Por supuesto
 2) [Web API](/Clases/APIsRESTWebApis.md) / [Ejemplo](/Codigos/EjemploWebAPI) / [Guia de creación de Web API](/Clases/GuiaCreacionWebApi.md)
 3) [Inyección de dependencias](/Clases/InyeccionDeDependencias.md) / [Mocking](/Clases/Mocking.md)
 4) [Entity Framework Core](/Clases/EntityFrameworkCore.md) / [Ejemplo - Bierland](/Codigos/Bierland)
-<!-- 5) [Filters](/Clases/Filters.md) / [Ejemplo Filters](/Codigos/ej-filters) -->
+5) [Filters](/Clases/Filters.md) / [Ejemplo Filters](/Codigos/ej-filters)
 <!-- 6) [Reflection](/Clases/Reflection.md) / [Ejemplo](/Codigos/Reflection) / [Aplicacion](AplicacionReflection)
 7) [Angular y SPAs](/Clases/Angular_y_las_SPAs.md)
 8) [Componentes, directivas, bindings y pipes](/Clases/Componentes_Templates_Bootstrapping_Directivas_Data_Binding_y_Pipes.md)
