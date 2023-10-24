@@ -26,13 +26,13 @@ El código que encontraran aquí va a ser construido clase a clase. Por supuesto
 4) [Entity Framework Core](/Clases/EntityFrameworkCore.md) / [Ejemplo - Bierland](/Codigos/Bierland)
 5) [Filters](/Clases/Filters.md) / [Ejemplo Filters](/Codigos/ej-filters)
 6) [Reflection](/Clases/Reflection.md) / [Ejemplo](/Codigos/Reflection) / [Aplicacion](AplicacionReflection)
-<!-- 7) [Angular y SPAs](/Clases/Angular_y_las_SPAs.md)
+7) [Angular y SPAs](/Clases/Angular_y_las_SPAs.md)
 8) [Componentes, directivas, bindings y pipes](/Clases/Componentes_Templates_Bootstrapping_Directivas_Data_Binding_y_Pipes.md)
 9) [Custom pipes y services](/Clases/Custom_Pipes_y_Service_Basico.md)
 10) [Primer ejemplo Angular](/Codigos/mi-primer-app)
 11) [Ciclos de vida y router](/Clases/Conceptos_avanzados.md)
 12) [HttpClient y observables](/Clases/Http_y_Observables_y_Mas_sobre_Routing.md)
-13) [Bierland - Ejemplo Angular](/Codigos/bierland-web) -->
+13) [Bierland - Ejemplo Angular](/Codigos/bierland-web)
 
 ## Deploy
 - [WebAPI](https://aulas.ort.edu.uy/mod/resource/view.php?id=186907)
